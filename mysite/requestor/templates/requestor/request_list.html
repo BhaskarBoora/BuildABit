@@ -1,0 +1,58 @@
+{% extends 'requestor/base.html' %}
+
+{% block content %}
+        <div class="date">
+        <p><br><br>logged_in: organic_waste_collector_2<br><br></p>
+        <br>
+        <br>
+    </div>
+    <!-- {% for obj in requests %} -->
+    <div class="post">
+        <div class="date">
+            <p>requested: Oct. 27, 2018, 3:59 a.m.</p>
+        </div>
+        <p>
+            Requested by: <h4><a href="">ankit_yadav</a></h4>
+            <!-- Type of waste: <h4><a href="">{{ obj.typeofwaste }}</a></h4> -->
+        </p>
+        <!-- <p>{{ post.text|linebreaksbr }}</p> -->
+        <!-- <p>something about the request and the type</p> -->
+    </div>
+    <div class="post">
+            <div class="date">
+                <p>requested: Oct. 27, 2018, 4:35 a.m.</p>
+            </div>
+            <p>
+                Requested by: <h4><a href="">dhanpal_sujith</a></h4>
+                <!-- Type of waste: <h4><a href="">{{ obj.typeofwaste }}</a></h4> -->
+            </p>
+            <!-- <p>{{ post.text|linebreaksbr }}</p> -->
+            <!-- <p>something about the request and the type</p> -->
+        </div>
+        <div class="post">
+                <div class="date">
+                    <p>requested: Oct. 27, 2018, 5:18 a.m.</p>
+                </div>
+                <p>
+                    Requested by: <h4><a href="">bhaskar_boora</a></h4>
+                    <!-- Type of waste: <h4><a href="">{{ obj.typeofwaste }}</a></h4> -->
+                </p>
+                <!-- <p>{{ post.text|linebreaksbr }}</p> -->
+                <!-- <p>something about the request and the type</p> -->
+            </div>
+            <div class="post">
+                    <div class="date">
+                        <p>requested: Oct. 27, 2018, 6:38 a.m.</p>
+                    </div>
+                    <p>
+                        Requested by: <h4><a href="">tushar_jape</a></h4>
+                        <!-- Type of waste: <h4><a href="">{{ obj.typeofwaste }}</a></h4> -->
+                    </p>
+                    <!-- <p>{{ post.text|linebreaksbr }}</p> -->
+                    <!-- <p>something about the request and the type</p> -->
+                </div>
+    <!-- {% endfor %} -->
+{% endblock %}
+
+{% load static %}
+
