@@ -1,3 +1,6 @@
+Link to Image Classifier: https://drive.google.com/drive/folders/1J7I09-zDs9Ze9zKxdZLcAGWO7N2WwMUU?usp=sharing
+
+
 # BuildABit - Waste Management
 
 ## Problem statement
