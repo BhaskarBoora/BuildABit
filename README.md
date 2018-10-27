@@ -1,5 +1,4 @@
 # BuildABit - Waste Management
-Build-a-bit
 
 ## Problem statement
 Design a smart waste collection system that allows citizens to segregate the various types of solid waste they want to dispose and the municipal authorities to efficiently collect the same. The system should be mobile app (Android) based.
