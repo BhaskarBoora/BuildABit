@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WasteManagementApp</string>
+    <string name="customer">Customer</string>
+    <string name="collector">Collector</string>
+    <string name="title_activity_customer_main">CustomerMainActivity</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="google_maps_api_key">AIzaSyB1f5pfSceP7WvjQhyQT1kgRCuBnYbkakM</string>
+    <string name="get_place">Select a place</string>
+    <string name="name">Name</string>
+    <string name="aadhar">Aadhar No.</string>
+    <string name="title_activity_customer">CustomerActivity</string>
+</resources>
