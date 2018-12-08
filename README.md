@@ -1,4 +1,8 @@
+Since the code to Image Classifier and dataset was amounting to large space,we have uploaded it in a google drive whose link is given below.
+
 Link to Image Classifier: https://drive.google.com/drive/folders/1J7I09-zDs9Ze9zKxdZLcAGWO7N2WwMUU?usp=sharing
+
+
 
 
 # BuildABit - Waste Management
@@ -35,3 +39,5 @@ Make a web interface for both citizen & garbage collector.
 Implement a hybrid mobile app (Android/iOS).
 Make an admin web interface where we can see all garbage trucks, citizens, collection requests (past & upcoming) etc.
 Implement a waste classification helper for citizen which suggests what waste category it is after the citizen takes a photo of the waste. It can suggest multiple categories as well.
+
+
